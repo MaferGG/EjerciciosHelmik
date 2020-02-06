@@ -1,0 +1,49 @@
+div {
+    padding: 10px;
+    display: block;
+    width: auto;
+    height: auto;
+    background-color: aquamarine;
+    margin: .2m;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+}
+input[type=text] {
+    border: 1px solid gray;
+    border-radius: 5px;
+
+}
+input[type=date] {
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 171px;
+    height: 19px;
+    
+    
+}
+input[type=email] {
+    border: 1px solid gray;
+    border-radius: 5px;
+    align-content: left;
+    
+    
+}
+input[type=number] {
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+label{
+    display: inline-block;
+    min-width: 0;
+    
+}
+
+.container{
+    text-align: right;
+    width: 50%;
+    padding-right: 0%;
+    display: inline-block;
+}
